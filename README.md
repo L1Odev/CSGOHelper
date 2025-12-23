@@ -14,7 +14,15 @@ CSGOHelper is a website dedicated to Counter-Strike 2 (CS2) players, providing t
 ### Nades Lineups
 - **URL**: https://csgohelper.pro/en-US/grenades
 - **Title**: CSGOHelper - CS2 nades, lineups, smokes, flashes and molotovs
-- **Description**: A page listing all available maps in CS2. Each map card shows the number of smokes, flashes, and molotovs available. Users can click on a map to view detailed grenade lineups for specific positions.
+- **Description**: A page listing all available maps in CS2. Each map card shows the number of smokes, flashes, and molotovs available. Users can click on a map to view detailed grenade lineups for specific positions. Available maps include:
+  - **Ancient**: https://csgohelper.pro/en-US/grenades/de_ancient - Best nades, smokes, flashes, molotovs for Ancient.
+  - **Dust2**: https://csgohelper.pro/en-US/grenades/de_dust2 - Best nades, smokes, flashes, molotovs for Dust2.
+  - **Inferno**: https://csgohelper.pro/en-US/grenades/de_inferno - Best nades, smokes, flashes, molotovs for Inferno.
+  - **Mirage**: https://csgohelper.pro/en-US/grenades/de_mirage - Best nades, smokes, flashes, molotovs for Mirage.
+  - **Nuke**: https://csgohelper.pro/en-US/grenades/de_nuke - Best nades, smokes, flashes, molotovs for Nuke.
+  - **Overpass**: https://csgohelper.pro/en-US/grenades/de_overpass - Best nades, smokes, flashes, molotovs for Overpass.
+  - **Anubis** (inactive): https://csgohelper.pro/en-US/grenades/de_anubis - Best nades, smokes, flashes, molotovs for Anubis.
+  - **Vertigo** (inactive): https://csgohelper.pro/en-US/grenades/de_vertigo - Best nades, smokes, flashes, molotovs for Vertigo.
 
 ### Faceit Stats
 - **URL**: https://csgohelper.pro/en-US/faceit-stats
